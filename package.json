@@ -1,0 +1,22 @@
+{
+  "name": "typescript-proxy",
+  "version": "1.0.0",
+  "description": "Typescript proxy objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMjauh/typescript-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMjauh/typescript-proxy/issues"
+  },
+  "homepage": "https://github.com/MrMjauh/typescript-proxy#readme",
+  "devDependencies": {
+    "ttypescript": "^1.5.6"
+  }
+}
